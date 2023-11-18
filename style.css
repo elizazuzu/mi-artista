@@ -1,0 +1,108 @@
+/*selector de etiqueta apra fondo de color*/
+
+body{
+    background-color: rgb(29, 1, 55);
+    font-family: 'Poppins', sans-serif;;
+}
+.titulo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+}
+
+.Metallica {
+    background-color: #5f4c0e;
+    border: 2px solid rgb(43, 5, 5);
+    text-align: center;
+    padding: 15px;
+    margin: 20px;}
+
+    
+img {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+.img_conten{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+    
+nav { text-align: center;}
+
+
+h1{
+    color:black;
+    background-color: rgb(58, 6, 107);
+    width: 500px;
+    padding: 20px;
+    border: 20px;
+    margin: 20px;
+    text-align: center;
+
+}
+
+h2{
+    color: brown;
+}
+h3{
+    color: rgb(83, 5, 5);
+}
+.tarjeta1 {
+    color:black;
+    padding: 20px;
+    border: 20px;
+    margin: 20px;
+    background-color: rgb(79, 2, 50);
+}
+.tarjeta2 {
+    color:black;
+    padding: 20px;
+    border: 20px;
+    margin: 20px;
+    background-color: rgb(60, 6, 74);
+}
+.tarjeta3 {
+    color:black;
+    padding: 20px;
+    border: 20px;
+    margin: 20px;
+    background-color: rgb(117, 12, 117);
+}
+.tarjeta4 {
+    color:black;
+    padding: 20px;
+    border: 20px;
+    margin: 20px;
+    background-color: rgb(83, 15, 58);
+}
+.tarjeta5 {
+    color:black;
+    padding: 20px;
+    border: 20px;
+    margin: 20px;
+    background-color: rgb(93, 23, 68);
+
+}
+.tarjeta6 {
+    color:black;
+    padding: 20px;
+    border: 20px;
+    margin: 20px;
+    background-color: rgb(59, 1, 38);
+
+}
+#titulo_form{
+    background-color: rgb(115, 115, 168);
+}
+.button{
+    background-color: rgb(43, 43, 147);
+}
+p {
+    font-weight: bold;
+    text-align: center;
+}
